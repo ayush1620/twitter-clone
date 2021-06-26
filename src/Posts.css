@@ -1,0 +1,33 @@
+.post_head {
+    background-position: center;
+}
+.post_Button{
+    background-color: var(--twitter-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 800 !important;
+    text-transform: inherit !important;
+    border-radius: 25px !important;
+    height: 40px !important;
+    margin-top: 25px !important;
+}
+.post_mid {
+    margin-top: 15px;
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    font-weight: 400;
+}
+.post_head  {
+    margin-top: 38px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.post_foot{
+    margin-left: 255px;
+}
+
+.q{
+    margin-left: 22px;
+}

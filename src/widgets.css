@@ -1,0 +1,96 @@
+.widgets {
+    flex: 0.3115;
+}
+.widgets_input {
+    background-color: var(--twitter-background);
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.widgets_icon{
+    color: gray;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.widgets_icon1{
+    color: gray;
+    font-size: 25px;
+    
+
+}
+.widgets_icon2{
+    color: gray;
+    font-size: 25px;
+
+}
+.widgets_container {
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: #f5f8fa;
+    border-radius: 20px;
+}
+
+.widgets_container > h2 {
+    font-size: 20px;
+    font-family: 900;
+}
+.in {
+    background-color: var(--twitter-background);
+    border: none;
+    margin-left: 10px;
+    font-size: 15px;
+}
+.w:hover{
+    background-color: var(--twitter-background);
+    transition: color 100ms ease-out;
+}
+.w {
+    padding-top: 30px;
+    padding-left: 20px;
+    border-bottom: 1px solid var(--twitter-background);
+}
+.w > h4{
+    
+    font-size: 15px;
+    font-weight: 700;
+}
+.w > h5{
+    font-size: 15px;
+    font-weight: 400;
+    color: gray;
+}
+.Button {
+    background-color: var(--twitter-background)  !important;
+    border: 1px solid var(--twitter-color) !important;
+    color: var(--twitter-color) !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 25px !important;
+    height: 30px !important;
+    margin-left: 200px !important;
+    margin-top: -80px !important;
+}
+.Button1 {
+    background-color: var(--twitter-background)  !important;
+    border: 1px solid var(--twitter-color) !important;
+    color: var(--twitter-color) !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 25px !important;
+    height: 30px !important;
+    margin-left: 200px !important;
+    margin-top: -100px !important;
+}
+.p {
+    padding-left: 10px;
+    padding-top: 10px;
+    color: var(--twitter-color);
+    font-weight: 450;
+}
